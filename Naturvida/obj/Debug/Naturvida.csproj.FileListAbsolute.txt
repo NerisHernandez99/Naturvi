@@ -1,0 +1,15 @@
+C:\Users\Neris\source\repos\NaturVida\Naturvida\bin\Debug\Naturvida.exe.config
+C:\Users\Neris\source\repos\NaturVida\Naturvida\bin\Debug\Naturvida.exe
+C:\Users\Neris\source\repos\NaturVida\Naturvida\bin\Debug\Naturvida.pdb
+C:\Users\Neris\source\repos\NaturVida\Naturvida\obj\Debug\Naturvida.csprojAssemblyReference.cache
+C:\Users\Neris\source\repos\NaturVida\Naturvida\obj\Debug\Naturvida.Principal.resources
+C:\Users\Neris\source\repos\NaturVida\Naturvida\obj\Debug\Naturvida.Properties.Resources.resources
+C:\Users\Neris\source\repos\NaturVida\Naturvida\obj\Debug\Naturvida.csproj.GenerateResource.cache
+C:\Users\Neris\source\repos\NaturVida\Naturvida\obj\Debug\Naturvida.csproj.CoreCompileInputs.cache
+C:\Users\Neris\source\repos\NaturVida\Naturvida\obj\Debug\Naturvida.exe
+C:\Users\Neris\source\repos\NaturVida\Naturvida\obj\Debug\Naturvida.pdb
+C:\Users\Neris\source\repos\NaturVida\Naturvida\obj\Debug\Naturvida.frmMenu.resources
+C:\Users\Neris\source\repos\NaturVida\Naturvida\obj\Debug\Naturvida.frmProductos.resources
+C:\Users\Neris\source\repos\NaturVida\Naturvida\obj\Debug\Naturvida.frmFactura.resources
+C:\Users\Neris\source\repos\NaturVida\Naturvida\obj\Debug\Naturvida.frmInventario.resources
+C:\Users\Neris\source\repos\NaturVida\Naturvida\obj\Debug\Naturvida.Factura.resources
