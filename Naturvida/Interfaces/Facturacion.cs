@@ -6,7 +6,7 @@ namespace Naturvida
 {
     public partial class Factura : Form
     {
-        public object dgvFacturaDetalle { get; private set; }
+       // public object dgvFacturaDetalle { get; private set; }
         public object Rows { get; private set; }
         public Factura()
         {
@@ -45,17 +45,20 @@ namespace Naturvida
             int Codigo = Convert.ToInt16(txarticulo.SelectedValue.ToString());
             String Articulo = txarticulo.Text;
             String Cantidad = txcantidad.Text;
-            int valor = Funciones.ConsultarPrecio(Codigo); ;
-            dgvFacturaDetalle.Rows.Add(Codigo, Articulo, Cantidad, valor);
-            int NumeroFilas = dgvFacturaDetalle.Rows.Count;
+            int valor = Funciones.ConsultarPrecio(Codigo);
+            datatabla2.Rows.Add(Codigo, Articulo, Cantidad, valor);
+            //dgvFacturaDetalle.Rows.Add(Codigo, Articulo, Cantidad, valor);
+            int NumeroFilas = datatabla2.Rows.Count;
             int ValorTotal = 0;
 
             if (NumeroFilas > 1)
             {
                 for (int i = 0; i < (NumeroFilas - 1); i++)
                 {
-                    int Cant = Convert.ToInt16(dgvFacturaDetalle.Rows[i].cells[2].value.ToString());
-                    int Val = Convert.ToInt16(dgvFacturaDetalle.Rows[i].Cells[3].value.toString());
+                    int Cant = Convert.ToInt16(datatabla2.Rows[i].Cells[2].Value.ToString());
+                    //int Cant = Convert.ToInt16(dgvFacturaDetalle.Rows[i].cells[2].value.ToString());
+                    //int Val = Convert.ToInt16(dgvFacturaDetalle.Rows[i].Cells[3].value.toString());
+                    int Val = Convert.ToInt16(datatabla2.Rows[i].Cells[3].Value.ToString());
                     ValorTotal = 0;
                 }
                 texTotalFac.Text = ValorTotal.ToString();
@@ -87,8 +90,9 @@ namespace Naturvida
 
         private void butTerminarFac_Click(object sender, EventArgs e)
         {
-
-            int NumeroFila = dgvFacturaDetalle.Rows.count;
+            
+            int NumeroFila = datatabla2.Rows.Count;
+            //int NumeroFila = dgvFacturaDetalle.Rows.count;
             DateTime date = txFecha.Value;
             int Cliente = Convert.ToInt16(txclient.SelectedValue.ToString());
             int Vendedor = Convert.ToInt16(txtVendedor.SelectedValue.ToString());
@@ -97,8 +101,13 @@ namespace Naturvida
             int UltimaFactura = RegistrarFactura.Registrar();
             for (int i = 0; i < (NumeroFila - 1); i++)
             {
-                int Articulo = Convert.ToInt16(dgvFacturaDetalle.Rows[i].cells[0].value.ToString());
-                int Cantidad = Convert.ToInt16(dgvFacturaDetalle.Rows[i].cells[2].value.ToString());
+
+                
+                int Articulo = Convert.ToInt16(datatabla2.Rows[i].Cells[0].Value.ToString());
+                //int Articulo = Convert.ToInt16(dgvFacturaDetalle.Rows[i].cells[0].value.ToString());
+                //int Cantidad = Convert.ToInt16(dgvFacturaDetalle.Rows[i].cells[2].value.ToString());
+                int Cantidad = Convert.ToInt16(datatabla2.Rows[i].Cells[2].Value.ToString());
+                
                 var AgregarProducto = new Recursos.ClassFacturaDetalle(UltimaFactura, Articulo, Cantidad);
 
 

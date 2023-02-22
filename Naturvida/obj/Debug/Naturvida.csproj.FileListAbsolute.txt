@@ -13,3 +13,17 @@ C:\Users\Neris\source\repos\NaturVida\Naturvida\obj\Debug\Naturvida.frmProductos
 C:\Users\Neris\source\repos\NaturVida\Naturvida\obj\Debug\Naturvida.frmFactura.resources
 C:\Users\Neris\source\repos\NaturVida\Naturvida\obj\Debug\Naturvida.frmInventario.resources
 C:\Users\Neris\source\repos\NaturVida\Naturvida\obj\Debug\Naturvida.Factura.resources
+C:\Users\Jhon Moreno\source\repos\GitNaturaVida\Naturvi\Naturvida\obj\Debug\Naturvida.csproj.AssemblyReference.cache
+C:\Users\Jhon Moreno\source\repos\GitNaturaVida\Naturvi\Naturvida\obj\Debug\Naturvida.Factura.resources
+C:\Users\Jhon Moreno\source\repos\GitNaturaVida\Naturvi\Naturvida\obj\Debug\Naturvida.Principal.resources
+C:\Users\Jhon Moreno\source\repos\GitNaturaVida\Naturvi\Naturvida\obj\Debug\Naturvida.frmInventario.resources
+C:\Users\Jhon Moreno\source\repos\GitNaturaVida\Naturvi\Naturvida\obj\Debug\Naturvida.frmMenu.resources
+C:\Users\Jhon Moreno\source\repos\GitNaturaVida\Naturvi\Naturvida\obj\Debug\Naturvida.frmProductos.resources
+C:\Users\Jhon Moreno\source\repos\GitNaturaVida\Naturvi\Naturvida\obj\Debug\Naturvida.Properties.Resources.resources
+C:\Users\Jhon Moreno\source\repos\GitNaturaVida\Naturvi\Naturvida\obj\Debug\Naturvida.csproj.GenerateResource.cache
+C:\Users\Jhon Moreno\source\repos\GitNaturaVida\Naturvi\Naturvida\obj\Debug\Naturvida.csproj.CoreCompileInputs.cache
+C:\Users\Jhon Moreno\source\repos\GitNaturaVida\Naturvi\Naturvida\obj\Debug\Naturvida.exe
+C:\Users\Jhon Moreno\source\repos\GitNaturaVida\Naturvi\Naturvida\obj\Debug\Naturvida.pdb
+C:\Users\Jhon Moreno\source\repos\GitNaturaVida\Naturvi\Naturvida\bin\Debug\Naturvida.exe.config
+C:\Users\Jhon Moreno\source\repos\GitNaturaVida\Naturvi\Naturvida\bin\Debug\Naturvida.exe
+C:\Users\Jhon Moreno\source\repos\GitNaturaVida\Naturvi\Naturvida\bin\Debug\Naturvida.pdb
