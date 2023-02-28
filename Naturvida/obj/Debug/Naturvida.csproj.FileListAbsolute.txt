@@ -27,3 +27,17 @@ C:\Users\Jhon Moreno\source\repos\GitNaturaVida\Naturvi\Naturvida\obj\Debug\Natu
 C:\Users\Jhon Moreno\source\repos\GitNaturaVida\Naturvi\Naturvida\bin\Debug\Naturvida.exe.config
 C:\Users\Jhon Moreno\source\repos\GitNaturaVida\Naturvi\Naturvida\bin\Debug\Naturvida.exe
 C:\Users\Jhon Moreno\source\repos\GitNaturaVida\Naturvi\Naturvida\bin\Debug\Naturvida.pdb
+D:\RportNatur\Naturvi\Naturvida\bin\Debug\Naturvida.exe.config
+D:\RportNatur\Naturvi\Naturvida\bin\Debug\Naturvida.exe
+D:\RportNatur\Naturvi\Naturvida\bin\Debug\Naturvida.pdb
+D:\RportNatur\Naturvi\Naturvida\obj\Debug\Naturvida.csprojAssemblyReference.cache
+D:\RportNatur\Naturvi\Naturvida\obj\Debug\Naturvida.Factura.resources
+D:\RportNatur\Naturvi\Naturvida\obj\Debug\Naturvida.Principal.resources
+D:\RportNatur\Naturvi\Naturvida\obj\Debug\Naturvida.frmInventario.resources
+D:\RportNatur\Naturvi\Naturvida\obj\Debug\Naturvida.frmMenu.resources
+D:\RportNatur\Naturvi\Naturvida\obj\Debug\Naturvida.frmProductos.resources
+D:\RportNatur\Naturvi\Naturvida\obj\Debug\Naturvida.Properties.Resources.resources
+D:\RportNatur\Naturvi\Naturvida\obj\Debug\Naturvida.csproj.GenerateResource.cache
+D:\RportNatur\Naturvi\Naturvida\obj\Debug\Naturvida.csproj.CoreCompileInputs.cache
+D:\RportNatur\Naturvi\Naturvida\obj\Debug\Naturvida.exe
+D:\RportNatur\Naturvi\Naturvida\obj\Debug\Naturvida.pdb

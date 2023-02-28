@@ -13,7 +13,7 @@ namespace Naturvida
     public partial class Principal : Form
     {
         String usuario = "Misael";
-        String contraseña = "123456";
+        String contraseña = "45678";
 
         public Principal()
         {
